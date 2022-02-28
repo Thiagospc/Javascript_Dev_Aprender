@@ -7,7 +7,7 @@ function verificarEntrada(){
         alert('Entrada concedida!');
     }
     else{
-        document.getElementById('Entrada negada!').innerText = 'Entrada concedida!'
+        document.getElementById('permissaodeentrada').innerText = 'Entrada negada!'
         alert('Entrada negada!');
 
     }
